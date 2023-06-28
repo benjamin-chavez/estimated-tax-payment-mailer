@@ -1,4 +1,4 @@
-# Estimated-Payment-Mailer
+# Estimated Tax Payment Mailer
 
 <ins>**Description**</ins>:
 
