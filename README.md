@@ -1,5 +1,7 @@
 # Estimated Tax Payment Mailer
 
+![](https://imgur.com/a/KAHaFeq)
+
 <ins>**Description**</ins>:
 
 This workbook allows a financial planning team to easily keep track of estimated tax payments and to generate automated quarterly emails to clients.
