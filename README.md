@@ -1,7 +1,7 @@
 # Estimated Tax Payment Mailer
 
 <p align="center">
-  <img src="estimated-tax-payment-mailer-ezgif.gif" alt="Alt Text">
+  <img src="demo.gif" alt="Alt Text">
 </p>
 
 
