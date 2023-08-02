@@ -1,7 +1,7 @@
 # Estimated Tax Payment Mailer
 
 ![](https://youtu.be/ROtBPTTGjoY)
-![](Estimated Tax Payment Mailer - ezgif.gif)
+![](estimated-tax-payment-mailer-ezgif.gif)
 
 <ins>**Description**</ins>:
 
